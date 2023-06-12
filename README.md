@@ -1,2 +1,2 @@
-# Random_sentences_generator_by_aqcchi
+RandomSentencesGeneratorByaqcchi
 Random sentence generator for fun! 
